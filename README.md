@@ -3,7 +3,7 @@ T cell receptor sequencing analysis notes
 
 ### papers
 
-* [Rep-Seq: uncovering the immunological repertoire through next-generation sequencinghttps://www.ncbi.nlm.nih.gov/pubmed/22043864)](
+* [Rep-Seq: uncovering the immunological repertoire through next-generation sequencing](https://www.ncbi.nlm.nih.gov/pubmed/22043864)
 
 ### Tools 
 * A collection of tools can be found [OMICtools](https://omictools.com/rep-seq-category)
