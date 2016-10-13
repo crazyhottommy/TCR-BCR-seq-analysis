@@ -7,7 +7,7 @@ T cell receptor sequencing analysis notes
 
 ### Tools 
 * A collection of tools can be found [OMICtools](https://omictools.com/rep-seq-category)
-* [migec])https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
+* [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
 * [MiXCR](https://github.com/milaboratory/mixcr) is a universal software for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data.
 * [tcR](http://imminfo.github.io/tcr/): an R package for T cell receptor repertoire advanced data analysis
 
