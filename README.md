@@ -12,3 +12,4 @@ T cell receptor sequencing analysis notes
 * [tcR](http://imminfo.github.io/tcr/): an R package for T cell receptor repertoire advanced data analysis
 
 * [ImReP](https://sergheimangul.wordpress.com/imrep/) is a computational method for rapid and accurate profiling of the adaptive immune repertoire from regular RNA-Seq data.
+* [Grouping of Lymphocyte Interactions by Paratope Hotspots](https://github.com/immunoengineer/gliph) paper: https://www.nature.com/nature/journal/v547/n7661/full/nature22976.html
