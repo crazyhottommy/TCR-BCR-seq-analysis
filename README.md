@@ -1,12 +1,19 @@
 # TCR-seq-analysis
 T cell receptor sequencing analysis notes
 
+### tutorials
+
+* [https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html
+* [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation. installation is very hard.
+
 ### papers
 
 * [Rep-Seq: uncovering the immunological repertoire through next-generation sequencing](https://www.ncbi.nlm.nih.gov/pubmed/22043864)
 
 ### Tools 
-* A collection of tools can be found [OMICtools](https://omictools.com/rep-seq-category)
+
+"Cool! I would start with immunarch, VDJTools, and the new scRepertoire package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
+
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
 * [MiXCR](https://github.com/milaboratory/mixcr) is a universal software for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data.
 * [tcR](http://imminfo.github.io/tcr/): an R package for T cell receptor repertoire advanced data analysis
