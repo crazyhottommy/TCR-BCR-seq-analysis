@@ -13,7 +13,7 @@ T cell receptor sequencing analysis notes
 
 ### Tools 
 
-"Cool! I would start with immunarch, VDJTools, and the new scRepertoire package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
+"Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
 
 * [CellaRepertorium](https://github.com/amcdavid/CellaRepertorium)
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
