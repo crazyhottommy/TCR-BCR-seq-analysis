@@ -5,7 +5,7 @@ T cell receptor sequencing analysis notes
 
 * [biostar post on integration scTCR with Seurat](https://www.biostars.org/p/384640/)
 * https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html
-* [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation. installation is very hard. 10x scBCR tutoiral using Immcantation https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html
+* [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation. installation is very hard. 10x scBCR tutorial using Immcantation https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html
 
 ### papers
 
