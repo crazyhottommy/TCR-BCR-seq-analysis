@@ -22,3 +22,5 @@ T cell receptor sequencing analysis notes
 
 * [ImReP](https://sergheimangul.wordpress.com/imrep/) is a computational method for rapid and accurate profiling of the adaptive immune repertoire from regular RNA-Seq data.
 * [Grouping of Lymphocyte Interactions by Paratope Hotspots](https://github.com/immunoengineer/gliph) paper: https://www.nature.com/nature/journal/v547/n7661/full/nature22976.html
+
+* [TcellMatch](https://github.com/theislab/tcellmatch): Predicting T-cell to epitope specificity. cellMatch is a collection of models to predict antigen specificity of **single T cells** based on CDR3 sequences and other single cell modalities, such as RNA counts and surface protein counts
