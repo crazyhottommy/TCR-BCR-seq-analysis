@@ -1,5 +1,5 @@
-# TCR-seq-analysis
-T cell receptor sequencing analysis notes
+# T/BCR-seq-analysis
+T/B cell receptor sequencing analysis notes
 
 ### tutorials
 
@@ -24,3 +24,7 @@ T cell receptor sequencing analysis notes
 * [Grouping of Lymphocyte Interactions by Paratope Hotspots](https://github.com/immunoengineer/gliph) paper: https://www.nature.com/nature/journal/v547/n7661/full/nature22976.html
 
 * [TcellMatch](https://github.com/theislab/tcellmatch): Predicting T-cell to epitope specificity. cellMatch is a collection of models to predict antigen specificity of **single T cells** based on CDR3 sequences and other single cell modalities, such as RNA counts and surface protein counts
+
+### resource
+
+* The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT). 
