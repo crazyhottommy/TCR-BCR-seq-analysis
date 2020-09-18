@@ -3,6 +3,7 @@ T/B cell receptor sequencing analysis notes
 
 ### tutorials
 
+* [A clonotype nomenclature for T cell receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2706371/)
 * [biostar post on integration scTCR with Seurat](https://www.biostars.org/p/384640/)
 * https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html
 * [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation. installation is very hard. 10x scBCR tutorial using Immcantation https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html
