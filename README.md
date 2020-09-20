@@ -7,6 +7,7 @@ T/B cell receptor sequencing analysis notes
 * [biostar post on integration scTCR with Seurat](https://www.biostars.org/p/384640/)
 * https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html
 * [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation. installation is very hard. 10x scBCR tutorial using Immcantation https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html
+* [scirpy "getting started" tutorial](https://icbi-lab.github.io/scirpy/tutorials/tutorial_3k_tcr.html) and [case study](https://icbi-lab.github.io/scirpy-paper/wu2020.html) reanalysing 140k T-cells from [Wu et al. (2020)](https://www.nature.com/articles/s41586-020-2056-8). 
 
 ### papers
 
@@ -25,6 +26,7 @@ T/B cell receptor sequencing analysis notes
 * [Grouping of Lymphocyte Interactions by Paratope Hotspots](https://github.com/immunoengineer/gliph) paper: https://www.nature.com/nature/journal/v547/n7661/full/nature22976.html
 
 * [TcellMatch](https://github.com/theislab/tcellmatch): Predicting T-cell to epitope specificity. cellMatch is a collection of models to predict antigen specificity of **single T cells** based on CDR3 sequences and other single cell modalities, such as RNA counts and surface protein counts
+* [scirpy](https://github.com/icbi-lab/scirpy): A scanpy extension for single-cell TCR analysis. 
 
 ### resource
 
