@@ -28,6 +28,8 @@ T/B cell receptor sequencing analysis notes
 * [TcellMatch](https://github.com/theislab/tcellmatch): Predicting T-cell to epitope specificity. cellMatch is a collection of models to predict antigen specificity of **single T cells** based on CDR3 sequences and other single cell modalities, such as RNA counts and surface protein counts
 * [scirpy](https://github.com/icbi-lab/scirpy): A scanpy extension for single-cell TCR analysis. 
 
+* [Tessa](https://github.com/jcao89757/tessa) is a Bayesian model to integrate T cell receptor (TCR) sequence profiling with transcriptomes of T cells. Enabled by the recently developed single cell sequencing techniques, which provide both TCR sequences and RNA sequences of each T cell concurrently, Tessa maps the functional landscape of the TCR repertoire, and generates insights into understanding human immune response to diseases. 
+
 ### database
 
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT). 
