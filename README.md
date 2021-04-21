@@ -36,3 +36,5 @@ T/B cell receptor sequencing analysis notes
 
 * [TCRdb](http://bioinfo.life.hust.edu.cn/TCRdb/#/) A comprehensive database of human T-cell receptor (TCR) sequences
 * [Immuno-Navigator](https://genomics.virus.kyoto-u.ac.jp/immuno-navigator/) A database for gene coexpression in the immune system
+* [McPAS-TCR](http://friedmanlab.weizmann.ac.il/McPAS-TCR/) A manually curated catalogue of pathology associated T-cell receptor sequences
+* [Vdjdb](https://vdjdb.cdr3.net/)
