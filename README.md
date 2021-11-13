@@ -18,6 +18,7 @@ T/B cell receptor sequencing analysis notes
 "Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
 
 * [CellaRepertorium](https://github.com/amcdavid/CellaRepertorium)
+* [enclone](https://10xgenomics.github.io/enclone/) from 10x. we should give this a try if we want to cluster TCR and BCR clonotypes.
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
 * [MiXCR](https://github.com/milaboratory/mixcr) is a universal software for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data.
 * [tcR](http://imminfo.github.io/tcr/): an R package for T cell receptor repertoire advanced data analysis
