@@ -17,6 +17,7 @@ T/B cell receptor sequencing analysis notes
 
 "Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
 
+* [TRUST4](https://www.nature.com/articles/s41592-021-01142-2) developed in Shirley Liu's group. Use it to extract TCR/BCR information from bulk RNAseq or 5' scRNAseq data.
 * [CellaRepertorium](https://github.com/amcdavid/CellaRepertorium)
 * [enclone](https://10xgenomics.github.io/enclone/) from 10x. we should give this a try if we want to cluster TCR and BCR clonotypes.
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
