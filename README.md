@@ -18,6 +18,10 @@ T/B cell receptor sequencing analysis notes
 "Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
 
 * [TRUST4](https://www.nature.com/articles/s41592-021-01142-2) developed in Shirley Liu's group. Use it to extract TCR/BCR information from bulk RNAseq or 5' scRNAseq data.
+* [ClusTCR](https://svalkiers.github.io/clusTCR/): a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity
+* [TCRex](https://tcrex.biodatamining.be/): a web tool for the prediction of TCR–epitope recognition
+* [ImRex](https://github.com/pmoris/ImRex) TCR-epitope recognition prediction using combined sequence input represention for convolutional neural networks.
+* [NetTCR - 2.0](https://services.healthtech.dtu.dk/service.php?NetTCR-2.0) Sequence-based prediction of peptide-TCR binding
 * [CellaRepertorium](https://github.com/amcdavid/CellaRepertorium)
 * [enclone](https://10xgenomics.github.io/enclone/) from 10x. we should give this a try if we want to cluster TCR and BCR clonotypes.
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
@@ -31,6 +35,8 @@ T/B cell receptor sequencing analysis notes
 * [scirpy](https://github.com/icbi-lab/scirpy): A scanpy extension for single-cell TCR analysis. 
 
 * [Tessa](https://github.com/jcao89757/tessa) is a Bayesian model to integrate T cell receptor (TCR) sequence profiling with transcriptomes of T cells. Enabled by the recently developed single cell sequencing techniques, which provide both TCR sequences and RNA sequences of each T cell concurrently, Tessa maps the functional landscape of the TCR repertoire, and generates insights into understanding human immune response to diseases. 
+* [DeepTCR](https://github.com/sidhomj/DeepTCR) Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
+* [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
 
 ### database
 
@@ -40,3 +46,5 @@ T/B cell receptor sequencing analysis notes
 * [Immuno-Navigator](https://genomics.virus.kyoto-u.ac.jp/immuno-navigator/) A database for gene coexpression in the immune system
 * [McPAS-TCR](http://friedmanlab.weizmann.ac.il/McPAS-TCR/) A manually curated catalogue of pathology associated T-cell receptor sequences
 * [Vdjdb](https://vdjdb.cdr3.net/)
+* @OPIGlets has built lots of lovely stuff including SAbPred, OAS, TAPhttp://opig.stats.ox.ac.uk/resources
+
