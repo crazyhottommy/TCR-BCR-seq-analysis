@@ -1,6 +1,8 @@
 # T/BCR-seq-analysis
 T/B cell receptor sequencing analysis notes
 
+Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
+
 ### tutorials
 
 * [A clonotype nomenclature for T cell receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2706371/)
