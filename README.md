@@ -48,6 +48,18 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 
 * [Structure-based prediction of T cell receptor:peptide-MHC interactions](https://www.biorxiv.org/content/10.1101/2022.08.05.503004v1) Preprint from Philip Bradley where he creates a version of AlphaFold to model TCR:peptide-MHC interactions. Benchmark is far from perfect, but the paper shows that deep learning-based structural modelling is a possible strategy to predict TCR specificity. 
 
+* [gget alphafold: Predict the 3D structure of a protein from its amino acid sequence using @DeepMind ’s AlphaFold v2.0 from a Python or command-line environment in 3 lines of code. Runs on any laptop and requires only ~4 GB of disk space. Simply ‘pip install gget’.](https://twitter.com/NeuroLuebbert/status/1555968042948915200)
+
+* [ColabFold: making protein folding accessible to all](https://www.nature.com/articles/s41592-022-01488-1)
+
+* [We have trained ESMFold to predict full atomic protein structure directly from language model representations of a single sequence. Accuracy is competitive with AlphaFold on most proteins with order of magnitude faster inference. By @MetaAI Protein Team.](https://mobile.twitter.com/alexrives/status/1550148755206414341)
+
+* Here, we introduce [OmegaFold](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1), the first computational method to successfully predict high-resolution protein structure from a single primary sequence alone. Using a new combination of a protein language model that allows us to make predictions from single sequences and a geometry-inspired transformer model trained on protein structures, OmegaFold outperforms RoseTTAFold and achieves similar prediction accuracy to AlphaFold2 on recently released structures.
+
+* [Learning inverse folding from millions of predicted structures](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) https://twitter.com/alexrives/status/1513603415959556096
+
+* [PSP: Million-level Protein Sequence Dataset for Protein Structure Prediction}(https://arxiv.org/abs/2206.12240)
+
 ### database
 
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT). 
