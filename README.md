@@ -44,6 +44,10 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * [DeepTCR](https://github.com/sidhomj/DeepTCR) Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
 
+### machine learning
+
+* [Structure-based prediction of T cell receptor:peptide-MHC interactions](https://www.biorxiv.org/content/10.1101/2022.08.05.503004v1) Preprint from Philip Bradley where he creates a version of AlphaFold to model TCR:peptide-MHC interactions. Benchmark is far from perfect, but the paper shows that deep learning-based structural modelling is a possible strategy to predict TCR specificity. 
+
 ### database
 
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT). 
