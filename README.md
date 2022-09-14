@@ -15,6 +15,12 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 
 * [Rep-Seq: uncovering the immunological repertoire through next-generation sequencing](https://www.ncbi.nlm.nih.gov/pubmed/22043864)
 * [Single Cell T Cell Receptor Sequencing: Techniques and Future Challenges](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01638/full)
+
+
+### simulation
+
+[Echidna: Integrated simulations of single-cell immune receptor repertoires and transcriptomes](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbac062/6687122?login=false)
+
 ### Tools 
 
 "Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
