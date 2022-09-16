@@ -64,9 +64,11 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 
 * [DeepMind AlphaFold for antibody discovery: What's the status?](https://www.naturalantibody.com/use-case/deepmind-alphafold-for-antibody-discovery-whats-the-status/)
 
-* [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article)
+* [Why AlphaFold won’t revolutionise drug discovery](https://www.chemistryworld.com/opinion/why-alphafold-wont-revolutionise-drug-discovery/4016051.article) We made AlphaFold dream of new protein assemblies, used #ProteinMPNN to bring it back to reality. https://twitter.com/BasileWicky/status/1570564831522213888
 
 * Here, we introduce [OmegaFold](https://www.biorxiv.org/content/10.1101/2022.07.21.500999v1), the first computational method to successfully predict high-resolution protein structure from a single primary sequence alone. Using a new combination of a protein language model that allows us to make predictions from single sequences and a geometry-inspired transformer model trained on protein structures, OmegaFold outperforms RoseTTAFold and achieves similar prediction accuracy to AlphaFold2 on recently released structures.
+
+* [Hallucinating symmetric protein assemblies](https://www.science.org/doi/10.1126/science.add1964)
 
 * [Learning inverse folding from millions of predicted structures](https://www.biorxiv.org/content/10.1101/2022.04.10.487779v1) https://twitter.com/alexrives/status/1513603415959556096
 
