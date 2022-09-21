@@ -26,6 +26,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 "Cool! I would start with [immunarch](https://immunarch.com/index.html), VDJTools, and the new [scRepertoire](https://github.com/ncborcherding/scRepertoire) package" -- Wʏᴀᴛᴛ MᴄDᴏɴɴᴇʟʟ from 10x genomcis
 
 * [TRUST4](https://www.nature.com/articles/s41592-021-01142-2) developed in Shirley Liu's group. Use it to extract TCR/BCR information from bulk RNAseq or 5' scRNAseq data.
+* [Benchmarking computational methods for B-cell receptor reconstruction from single-cell RNA-seq data](https://www.biorxiv.org/content/10.1101/2022.03.24.485600v2.full)
 * We are happy to report a dramatic speedup for one of the core computations for adaptive immune receptor repertoire (AIRR) analysis - the discovery and counting of receptors that overlap between repertoires! Check out our [CompAIRR](https://github.com/uio-bmi/compairr). With 10^4 repertoires of 10^5 sequences each, CompAIRR ran in 17 minutes while the fastest existing tool took 10 days, amounting to a ~1000x speedup
 * [ClusTCR](https://svalkiers.github.io/clusTCR/): a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity
 * [GLIPH2](https://www.nature.com/articles/s41587-020-0505-4)
