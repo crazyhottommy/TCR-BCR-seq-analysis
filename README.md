@@ -49,6 +49,9 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 
 * [Tessa](https://github.com/jcao89757/tessa) is a Bayesian model to integrate T cell receptor (TCR) sequence profiling with transcriptomes of T cells. Enabled by the recently developed single cell sequencing techniques, which provide both TCR sequences and RNA sequences of each T cell concurrently, Tessa maps the functional landscape of the TCR repertoire, and generates insights into understanding human immune response to diseases. 
 * [DeepTCR](https://github.com/sidhomj/DeepTCR) Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
+https://twitter.com/John_Will_I_Am/status/1570837756787691527
+https://www.science.org/doi/10.1126/sciadv.abq5089
+
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
 
 ### machine learning
