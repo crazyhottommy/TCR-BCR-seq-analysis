@@ -58,6 +58,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 * [Structure-based prediction of T cell receptor:peptide-MHC interactions](https://www.biorxiv.org/content/10.1101/2022.08.05.503004v1) Preprint from Philip Bradley where he creates a version of AlphaFold to model TCR:peptide-MHC interactions. Benchmark is far from perfect, but the paper shows that deep learning-based structural modelling is a possible strategy to predict TCR specificity. 
 
+*  Uni-Fold: an open-source platform for developing protein models beyond AlphaFold. https://github.com/dptech-corp/Uni-Fold
+
 * [ATRAP - Accurate T cell Receptor Antigen Pairing through data-driven filtering of sequencing information from single-cells](https://www.biorxiv.org/content/10.1101/2022.08.31.506001v1)
 
 * [gget alphafold: Predict the 3D structure of a protein from its amino acid sequence using @DeepMind ’s AlphaFold v2.0 from a Python or command-line environment in 3 lines of code. Runs on any laptop and requires only ~4 GB of disk space. Simply ‘pip install gget’.](https://twitter.com/NeuroLuebbert/status/1555968042948915200)
