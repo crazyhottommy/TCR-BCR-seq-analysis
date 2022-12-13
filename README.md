@@ -61,6 +61,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 * Uni-Fold: an open-source platform for developing protein models beyond AlphaFold. https://github.com/dptech-corp/Uni-Fold
 
+* Equidock: docking protein receptor and ligand https://github.com/octavian-ganea/equidock_public  news https://news.mit.edu/2022/ai-predicts-protein-docking-0201
+
 * [AlphaFill](https://www.nature.com/articles/s41592-022-01685-y): enriching AlphaFold models with ligands and cofactors
 
 * [ATRAP - Accurate T cell Receptor Antigen Pairing through data-driven filtering of sequencing information from single-cells](https://www.biorxiv.org/content/10.1101/2022.08.31.506001v1)
