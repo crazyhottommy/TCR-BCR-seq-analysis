@@ -85,6 +85,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 * [PSP: Million-level Protein Sequence Dataset for Protein Structure Prediction}(https://arxiv.org/abs/2206.12240)
 
+* [Fast, accurate ranking of engineered proteins by receptor binding propensity using structural modeling](https://www.biorxiv.org/content/10.1101/2023.01.11.523680v1.full) https://twitter.com/DingXiaozhe/status/1618257727515676672
+
 ### database
 
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT). 
