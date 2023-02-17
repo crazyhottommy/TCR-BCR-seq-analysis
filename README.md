@@ -16,6 +16,9 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * [Rep-Seq: uncovering the immunological repertoire through next-generation sequencing](https://www.ncbi.nlm.nih.gov/pubmed/22043864)
 * [Single Cell T Cell Receptor Sequencing: Techniques and Future Challenges](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01638/full)
 * [T-cell repertoire analysis and metrics of diversity and clonality](https://www.sciencedirect.com/science/article/pii/S0958166920301051?via%3Dihub)
+* [TCR-Vγδ usage distinguishes protumor from antitumor intestinal γδ T cell subsets](https://www.science.org/doi/abs/10.1126/science.abj8695)
+* [De novo prediction of cancer-associated T cell receptors for noninvasive cancer detection](https://www.science.org/doi/abs/10.1126/scitranslmed.aaz3738)
+* [TCR-engineered T cell therapy in solid tumors: State of the art and perspectives](https://www.science.org/doi/10.1126/sciadv.adf3700)
 
 
 ### simulation
