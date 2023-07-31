@@ -10,7 +10,8 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * https://repseq-tutorial.readthedocs.io/en/latest/prerequisites.html
 * [Welcome to the Immcantation Portal](https://immcantation.readthedocs.io/en/stable/) Use the docker version of Immcantation if you have installation problems. 10x scBCR tutorial using Immcantation https://immcantation.readthedocs.io/en/stable/tutorials/10x_tutorial.html
 * [scirpy "getting started" tutorial](https://icbi-lab.github.io/scirpy/tutorials/tutorial_3k_tcr.html) and [case study](https://icbi-lab.github.io/scirpy-paper/wu2020.html) reanalysing 140k T-cells from [Wu et al. (2020)](https://www.nature.com/articles/s41586-020-2056-8). 
-
+* [Tutorial: a statistical genetics guide to identifying HLA alleles driving complex disease](https://www.nature.com/articles/s41596-023-00853-4)
+  
 ### papers
 
 * [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3)
@@ -59,7 +60,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * [DeepTCR](https://github.com/sidhomj/DeepTCR) Deep Learning Methods for Parsing T-Cell Receptor Sequencing (TCRSeq) Data
 https://twitter.com/John_Will_I_Am/status/1570837756787691527
 https://www.science.org/doi/10.1126/sciadv.abq5089
-
+* [Efficient and accurate KIR and HLA genotyping with massively parallel sequencing data](https://github.com/mourisl/T1K)
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
 
 ### machine learning
