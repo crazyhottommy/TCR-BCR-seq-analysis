@@ -67,6 +67,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 * [Machine learning predictions of MHC-II specificities reveal alternative binding mode of class II epitopes](https://www.cell.com/immunity/fulltext/S1074-7613(23)00129-2?)
 
+* [DeepAIR: A deep learning framework for effective integration of sequence and 3D structure to enable adaptive immune receptor analysis](https://www.science.org/doi/10.1126/sciadv.abo5128)
+  
 * [STAPLER: Efficient learning of TCR-peptide specificity prediction from full-length TCR-peptide data](https://www.biorxiv.org/content/10.1101/2023.04.25.538237v1)
 
 * [Structure-based prediction of T cell receptor:peptide-MHC interactions](https://www.biorxiv.org/content/10.1101/2022.08.05.503004v1) Preprint from Philip Bradley where he creates a version of AlphaFold to model TCR:peptide-MHC interactions. Benchmark is far from perfect, but the paper shows that deep learning-based structural modelling is a possible strategy to predict TCR specificity. 
