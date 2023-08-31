@@ -45,6 +45,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * [TCRex](https://tcrex.biodatamining.be/): a web tool for the prediction of TCR–epitope recognition
 * [ImRex](https://github.com/pmoris/ImRex) TCR-epitope recognition prediction using combined sequence input represention for convolutional neural networks.
 * [NetTCR - 2.0](https://services.healthtech.dtu.dk/service.php?NetTCR-2.0) Sequence-based prediction of peptide-TCR binding
+* [GraphMHC](https://www.biorxiv.org/content/10.1101/2023.08.25.554848v1): neoantigen prediction model applying the graph neural network to molecular structure" A hybrid graph attention network + CNN to predict peptides that bind MHC proteins
 * [CellaRepertorium](https://github.com/amcdavid/CellaRepertorium)
 * [enclone](https://10xgenomics.github.io/enclone/) from 10x. we should give this a try if we want to cluster TCR and BCR clonotypes.
 * [migec](https://github.com/mikessh/migec):A RepSeq processing swiss-knife.
