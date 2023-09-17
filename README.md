@@ -67,6 +67,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 ### machine learning
 
+* [TAPIR: a T-cell receptor language model for predicting rare and novel targets](https://www.biorxiv.org/content/10.1101/2023.09.12.557285v1)
+
 * [Machine learning predictions of MHC-II specificities reveal alternative binding mode of class II epitopes](https://www.cell.com/immunity/fulltext/S1074-7613(23)00129-2?)
 
 * [DeepAIR: A deep learning framework for effective integration of sequence and 3D structure to enable adaptive immune receptor analysis](https://www.science.org/doi/10.1126/sciadv.abo5128)
