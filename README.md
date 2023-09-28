@@ -107,6 +107,7 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 
 ### database
 
+* [Stitchr: stitching coding TCR nucleotide sequences from V/J/CDR3 information](https://academic.oup.com/nar/article/50/12/e68/6553689)
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT).
 * [hlabud](https://github.com/slowkow/hlabud) provides methods to retrieve sequence alignment data from [IMGTHLA](https://github.com/ANHIG/IMGTHLA) and convert the data into convenient R matrices ready for downstream analysis.
 
