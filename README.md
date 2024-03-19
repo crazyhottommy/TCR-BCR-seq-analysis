@@ -40,6 +40,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 * [Benchmarking computational methods for B-cell receptor reconstruction from single-cell RNA-seq data](https://www.biorxiv.org/content/10.1101/2022.03.24.485600v2.full)
 * We are happy to report a dramatic speedup for one of the core computations for adaptive immune receptor repertoire (AIRR) analysis - the discovery and counting of receptors that overlap between repertoires! Check out our [CompAIRR](https://github.com/uio-bmi/compairr). With 10^4 repertoires of 10^5 sequences each, CompAIRR ran in 17 minutes while the fastest existing tool took 10 days, amounting to a ~1000x speedup
 * [ClusTCR](https://svalkiers.github.io/clusTCR/): a Python interface for rapid clustering of large sets of CDR3 sequences with unknown antigen specificity
+* [Pyrepseq: the immune repertoire analysis toolkit](https://github.com/andim/pyrepseq) has a function to cluster TCR superfast: [Lightning-fast adaptive immune receptor similarity search by symmetric deletion lookup](https://arxiv.org/pdf/2403.09010.pdf)  clustering 10^6 TCR sequences in one second? Or 10^7 TCRs in 10 seconds
 * [GLIPH2](https://www.nature.com/articles/s41587-020-0505-4)
 * [GIANA allows computationally-efficient TCR clustering and multi-disease repertoire classification by isometric transformation](https://www.nature.com/articles/s41467-021-25006-7) from Bo Li.
 * [tcrdist3](https://github.com/kmayerb/tcrdist3) is a python API-enabled toolkit for analyzing T-cell receptor repertoires
