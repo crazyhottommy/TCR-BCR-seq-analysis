@@ -6,6 +6,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 ### tutorials
 
 * review [Adaptive immune receptor repertoire analysis](https://www.nature.com/articles/s43586-023-00284-1)
+* [Single-cell immune repertoire analysis](https://www.nature.com/articles/s41592-024-02243-4) | Nature Methods
 * [A clonotype nomenclature for T cell receptors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2706371/)
 * [T Cell Clonal Analysis Using Single-cell RNA Sequencing and Reference Maps](https://en.bio-protocol.org/en/bpdetail?id=4735&type=0)
 * [biostar post on integration scTCR with Seurat](https://www.biostars.org/p/384640/)
