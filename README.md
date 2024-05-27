@@ -120,4 +120,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 * [McPAS-TCR](http://friedmanlab.weizmann.ac.il/McPAS-TCR/) A manually curated catalogue of pathology associated T-cell receptor sequences
 * [Vdjdb](https://vdjdb.cdr3.net/)
 * @OPIGlets has built lots of lovely stuff including SAbPred, OAS, TAP http://opig.stats.ox.ac.uk/resources
+* Observed TCR space. 5.33M redundant/1.63M non-redundant alpha/beta TCR sequences deriving from 50 separate studies. https://opig.stats.ox.ac.uk/webapps/ots/
+* The Observed Antibody Space database (OAS) https://opig.stats.ox.ac.uk/webapps/oas/documentation/
+* SAbDab is a database containing all the antibody structures available in the PDB, annotated and presented in a consistent fashion. https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab
+* A science gateway that enables the discovery, analysis, and download of AIRR-seq data (antibody/B-cell and T-cell receptor repertoires) from the 10 remote repositories in the AIRR Data Commons (ADC)  https://gateway.ireceptor.org/login
 
