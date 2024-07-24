@@ -18,7 +18,7 @@ Please check [awesome vdj](https://github.com/slowkow/awesome-vdj) too!
 ### papers
 
 * [Can we predict T cell specificity with digital biology and machine learning?](https://www.nature.com/articles/s41577-023-00835-3)
-* reivew [High-throughput and single-cell T cell receptor sequencing technologies](https://www.nature.com/articles/s41592-021-01201-8)
+* review [High-throughput and single-cell T cell receptor sequencing technologies](https://www.nature.com/articles/s41592-021-01201-8)
 * [Disease diagnostics using machine learning of immune receptors](https://www.biorxiv.org/content/10.1101/2022.04.26.489314v3)
 * [Rep-Seq: uncovering the immunological repertoire through next-generation sequencing](https://www.ncbi.nlm.nih.gov/pubmed/22043864)
 * [Single Cell T Cell Receptor Sequencing: Techniques and Future Challenges](https://www.frontiersin.org/articles/10.3389/fimmu.2018.01638/full)
@@ -70,6 +70,8 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
 
 ### machine learning
+
+* Structure-based prediction of T cell receptor recognition of unseen epitopes using TCRen https://www.nature.com/articles/s43588-024-00653-0
 
 * [TAPIR: a T-cell receptor language model for predicting rare and novel targets](https://www.biorxiv.org/content/10.1101/2023.09.12.557285v1)
 
