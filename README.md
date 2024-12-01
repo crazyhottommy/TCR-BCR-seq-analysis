@@ -68,6 +68,12 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 * T1K [Efficient and accurate KIR and HLA genotyping with massively parallel sequencing data](https://github.com/mourisl/T1K)
 * [Full resolution HLA and KIR genes annotation for human genome assemblies](https://www.biorxiv.org/content/10.1101/2024.01.20.576452v1)
 * [Integrating T cell receptor sequences and transcriptional profiles by clonotype neighbor graph analysis (CoNGA)](https://www.nature.com/articles/s41587-021-00989-2)
+* [Quantifiable TCR repertoire changes in prediagnostic blood specimens among patients with high-grade ovarian cancer: Cell Reports Medicine](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(24)00316-1)
+* Design of high specificity binders for peptide-MHC-I complexes https://www.biorxiv.org/content/10.1101/2024.11.28.625793v1
+* Why do TCR analysis tools (tcrdist, nettcr, etc) rely on substitution matrices made for evolution, like blosum? And could we improve them with a dedicated substitution matrix tcrBLOSUM: an amino acid substitution matrix for sensitive alignment of distant epitope-specific TCRs https://academic.oup.com/bib/article/26/1/bbae602/7906917?login=false
+
+
+
 
 ### machine learning
 
@@ -116,7 +122,7 @@ https://www.science.org/doi/10.1126/sciadv.abq5089
 * [Stitchr: stitching coding TCR nucleotide sequences from V/J/CDR3 information](https://academic.oup.com/nar/article/50/12/e68/6553689)
 * The [IPD-IMGT/HLA Database](https://www.ebi.ac.uk/ipd/imgt/hla/) provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT).
 * [hlabud](https://github.com/slowkow/hlabud) provides methods to retrieve sequence alignment data from [IMGTHLA](https://github.com/ANHIG/IMGTHLA) and convert the data into convenient R matrices ready for downstream analysis.
-
+* 7 million pairs! A great resource for TCR-antigen interaction.TRAIT: A Comprehensive Database for T-cell Receptor-Antigen Interactions https://www.biorxiv.org/content/10.1101/2024.11.20.624436v1
 * [TCRdb](http://bioinfo.life.hust.edu.cn/TCRdb/#/) A comprehensive database of human T-cell receptor (TCR) sequences
 * [Immuno-Navigator](https://genomics.virus.kyoto-u.ac.jp/immuno-navigator/) A database for gene coexpression in the immune system
 * [McPAS-TCR](http://friedmanlab.weizmann.ac.il/McPAS-TCR/) A manually curated catalogue of pathology associated T-cell receptor sequences
